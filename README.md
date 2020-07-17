@@ -1,0 +1,1 @@
+# Modelo-SEIR-Covid-con-Superprapagadores
